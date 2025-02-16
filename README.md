@@ -21,7 +21,7 @@ PantauSAM adalah platform berbasis web yang memungkinkan masyarakat untuk melapo
 ## Instalasi
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/PantauSAM.git
+   git clone https://github.com/faidzagustiawan/PantauSAM
    ```
 2. Masuk ke direktori proyek:
    ```bash
